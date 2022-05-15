@@ -74,3 +74,11 @@ one obvious choice is the difference in the means.
 there is one) between first babies and others. How should we report these
 results?
 > The answer depends on who is asking the question.
+
+### Exercises
+- Effect Size: 
+  - for sample size, how many sample's size is enough to have credibility.
+  - less effect size --> need more samples to have credibility and reliablity.
+  - https://ithelp.ithome.com.tw/articles/10229159
+
+## Chapter 3. Probability mass functions
